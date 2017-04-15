@@ -48,44 +48,44 @@ fr:
       deleted_tooltip: "l'utilisateur n'existe plus"
   _js:
     confirmation_dialog:
-      cancel: "Cancel"
+      cancel: "Annuler"
       confirm: "OK"
       title: "Confirmation"
   _other:
-    accept: "Accept"
-    cancel: "Cancel"
-    create: "Create"
+    accept: "Accepter"
+    cancel: "Annuler"
+    create: "Créer"
     confirm: Ok
     datetimepicker:
       format_display: "%m/%d/%Y"
       format: "MM-dd-yyyy"
       format_rails: "%m/%d/%Y %H:%M"
-    decline: "Decline"
-    deny: "Deny"
-    destroy: "Destroy"
-    details: "Details"
-    edit: "Edit"
-    end: "End"
+    decline: "Decliner"
+    deny: "Refuser"
+    destroy: "Détruire"
+    details: "Détails"
+    edit: "Editer"
+    end: "Fin"
     form:
-      required: "required"
+      required: "resuis"
     index: Listing
     in_place_edit:
-      error: "error"
-      success: "saved"
-    join: "Join"
-    login: "Sign in"
-    login_to_enable: "You need to be logged in to perform this action"
+      error: "erreur"
+      success: "sauvegardé"
+    join: "Rejoindre"
+    login: "Se connecter"
+    login_to_enable: "Vous devez être connecté pour effectuer cette action"
     members:
-      one: "%{count} member"
-      other: "%{count} members"
+      one: "%{count} membre"
+      other: "%{count} membres"
     no_: "No"
     participants:
       one: "%{count} participant"
       other: "%{count} participants"
-    publish: "Publish"
+    publish: "Publier"
     register: "S'inscrire"
-    save: "Save"
-    send: "Send"
+    save: "Sauver"
+    send: "Envoyer"
     not_approved:
       text: 'Waiting approval'
       tooltip: 'Waiting approval, users are not able to view nor access this space yet'
