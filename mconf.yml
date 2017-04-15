@@ -1756,17 +1756,17 @@ fr:
   webconference: 
     invite_webconference: "Invite people to the webconference"
     join: Join
-    my_webconference: "My webconference room"
-    new_webconference: "New webconference room"
-    not_running: "not running"
+    my_webconference: "Ma salle de conférence Web"
+    new_webconference: "Nouvelle salle de conférence Web"
+    not_running: "N'est pas lancé"
     one: Webconference
     running: running
     space: 
-      join_now: "Join now"
-      see_more: "see more"
-    start_now: "Start now!"
+      join_now: "Rejoindre maintenant"
+      see_more: "voir plus"
+    start_now: "Commmencer maintenant"
   when: When
   where: Where
   yesterday: Yesterday
-  your_vcard: "your vCard"
-  zipcode: "Zip code"
+  your_vcard: "Votre vCard"
+  zipcode: "Code postal"
