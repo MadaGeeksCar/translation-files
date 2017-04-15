@@ -2,9 +2,9 @@
 fr:
   activities:
     attachment:
-      create_html: a uploadé le fichier %{name} de l'espace
-      destroy_html: a supprimé le fichier %{name} de l'espace
-      update_html: a mis à jour le fichier %{name} de l'espace
+      create_html: "a uploadé le fichier %{name} de l'espace"
+      destroy_html: "a supprimé le fichier %{name} de l'espace"
+      update_html: "a mis à jour le fichier %{name} de l'espace"
       deleted: "Une pièce jointe retirée "
       deleted_tooltip: "Cette pièce jointe a été effacée"
     bigbluebutton_meeting:
@@ -16,8 +16,8 @@ fr:
     event:
       deleted_tooltip: "Cet évènement n'est plus accessible"
     join_request:
-      accept_html: a rejoint la salle
-      decline_html: a vu son invitation/requête déclinée dans l'espace
+      accept_html:"a rejoint la salle"
+      decline_html: "a vu son invitation/requête déclinée dans l'espace"
       deleted: "Une pièce jointe retirée "
       deleted_tooltip: "Cette pièce jointe a été effacée"
       invite_html: "a été invité(e) à rejoindre l'espace"
@@ -30,20 +30,20 @@ fr:
       admin_html: "Un administrateur"
       someone_html: "Quelqu'un"
     post:
-      create_html: a posté %{name} dans l'espace
-      update_html: a mis à jour %{name} dans l'espace
-      reply_html: a répondu à %{name} dans l'espace
+      create_html: "a posté %{name} dans l'espace"
+      update_html: "a mis à jour %{name} dans l'espace"
+      reply_html: "a répondu à %{name} dans l'espace"
       deleted: "Une pièce jointe retirée "
       deleted_tooltip: "Cette pièce jointe a été effacée"
     resource:
       deleted_tooltip: "Cette pièce jointe a été effacée"
     space:
-      approved_html: a approuvé l'espace
-      create_html: a créé un nouvel espace
+      approved_html: "a approuvé l'espace"
+      create_html:"a créé un nouvel espace"
       deleted: "Cet espace n'existe plus"
       deleted_tooltip: "Cet espace n'existe plus"
-      leave_html: a quitté l'espace
-      update_html: a mis à jour des informations dans l'espace
+      leave_html: "a quitté l'espace"
+      update_html:" a mis à jour des informations dans l'espace"
     user:
       deleted_tooltip: "l'utilisateur n'existe plus"
   _js:
@@ -1716,57 +1716,57 @@ fr:
       management_options: "Management options"
       not_confirmed: "Your account is not activated yet, please check your email to activate it. In case you didn't receive an email, <a href=\"%{url}\">click here</a> to request a new one."
       other_user:
-        click_to_edit_profile: "Click here to edit this user's profile"
-        not_confirmed: "This user has not confirmed his/her account yet."
-        title: "Edit user account"
-      preferences: "Preferences"
-      title: "Edit your account"
-      yes_cancel_account: "Yes, cancel my account"
+        click_to_edit_profile: "Cliquer ici pour modifier le compte de cet utilisateur"
+        not_confirmed: "Cet utilisateur n'a pas encore confirmé son compte"
+        title: "Modifier le compte de l'utilisateur"
+      preferences: "Préférences"
+      title: "Modifier votre compte"
+      yes_cancel_account: "Oui, annuler mon compte"
     errors:
-      access_forbidden: "This operation is only available to administrators"
+      access_forbidden: "Cette opération est disponible seulement à l'administrateur"
     new:
       create:
-        success: "User created. This user is already confirmed and can access the website at any time."
-        error: "Error(s) while create the new user"
-      title: "Create user"
+        success: "Utilisateur crée. Cet ulisateur est confirmé et peut désormais accéder au site web à n'importe quel moment"
+        error: "Des erreurs lors de la création de l'utilisateur"
+      title: "Créer un utilisateur"
   username: Username
   uploader:
-    button: Upload new file
-    fail: Upload error
-    progress: "{percent}% of {total_size}"
-    drag_files: Drag and drop files here to upload
-    processing: Processing...
+    button: Télécharger un nouveau fichier
+    fail: Erreur lors du téléchargement
+    progress: "{percent}% de {total_size}"
+    drag_files: "Glissez et déposez ici pour télecharger"
+    processing: Traitement
     error:
-      invalid_extension: "{file} has an invalid extension. Valid extension(s): {extensions}."
-      invalid_size: "{file} is too large, maximum file size is {sizeLimit}."
-      empty_file: "{file} is empty, please select files again without it."
+      invalid_extension: "{file} a une exstension invalide. Voici les extensions valides : {extensions}."
+      invalid_size: "{file} la taille du fichier est trop large, la taille maximale est {sizeLimit}."
+      empty_file: "{file} est vide, veuillez choisir d'autres fichiers."
       no_files: "No files to upload."
       on_leave: "The files are being uploaded, if you leave now the upload will be cancelled."
   vCard: 
-    corrupt: "The vCard you sent is corrupted or is a non-supported version"
-    message: "Use your vCard to automatically fill in your profile"
-    upload: "Upload your vCard"
+    corrupt: "Le vCard que vous avez envoyé est corrompu ou il possède une version non supporté"
+    message: "Utilisez votre vCard pour remplir automatiquement votre profil"
+    upload: "Télecharger votre vCard"
   vcc: Mconf
   vcc_mail_label: "[Mconf]"
   version: 
-    new: "New version"
+    new: "Nouvelle version"
     one: Version
-  view: "View"
-  view_more: "View more"
+  view: "Voir"
+  view_more: "Voir plus"
   webconference: 
-    invite_webconference: "Invite people to the webconference"
+    invite_webconference: "Inviter d'autres à rejoindre la salle de conférence Web"
     join: Join
     my_webconference: "Ma salle de conférence Web"
     new_webconference: "Nouvelle salle de conférence Web"
     not_running: "N'est pas lancé"
     one: Webconference
-    running: running
+    running: "en cours d'exécution"
     space: 
       join_now: "Rejoindre maintenant"
       see_more: "voir plus"
     start_now: "Commmencer maintenant"
-  when: When
-  where: Where
-  yesterday: Yesterday
+  when: "Quand"
+  where: "Où"
+  yesterday: hier
   your_vcard: "Votre vCard"
   zipcode: "Code postal"
